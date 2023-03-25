@@ -4,5 +4,7 @@
   - gem
     - 構文解析gem
     - 品詞分解gem
+    - natto
+    - mecab
   - webapp
 
