@@ -4,4 +4,4 @@
   - webapp
   - gemに代わるもの（制限あり）
     - https://developer.yahoo.co.jp/webapi/jlp/ma/v2/parse.html
-
+  - https://github.com/yoshoku/suika
